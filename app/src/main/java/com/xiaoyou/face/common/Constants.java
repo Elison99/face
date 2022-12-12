@@ -2,8 +2,8 @@ package com.xiaoyou.face.common;
 
 public class Constants {
 
-    public static final String APP_ID = "EApbeboLm4tCdVB7AxEgGZKGCaqWkQYM4kJ5JVBGSYKt";
-    public static final String SDK_KEY = "5ARJZdSY21YccFvYvkGGQBdxNX2pqpDrBpA27nyvN3d9";
+    public static final String APP_ID = "EApbeboLm4tCdVB7xxxxxx";
+    public static final String SDK_KEY = "5ARJZdSY21Ycxxxxxxxxx";
 
     /**
      * IR预览数据相对于RGB预览数据的横向偏移量，注意：是预览数据，一般的摄像头的预览数据都是 width > height
